@@ -1,0 +1,11 @@
+FullLoaded=Программа загружена!
+change_sound_output=Поменять выход звука на 
+NameForCommandNotFound=Not finded name for command 
+exit=Выход
+ModuleSwitch=Переключить модули
+pc_shutdown=Выключить пк через Х минут
+explorer_utils=Проводник
+explorer_kill=Убить explorer.exe
+explorer_restart=Перезапуск explorer.exe
+ACCEPT=Принять
+CANCEL=Отменить

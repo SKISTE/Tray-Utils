@@ -1,0 +1,11 @@
+FullLoaded=Programm loaded!
+change_sound_output=Change output on 
+NameForCommandNotFound=Not finded name for command 
+exit=Exit
+ModuleSwitch=Module switch
+pc_shutdown=Shutdown pc after X min
+explorer_utils=Explorer Utils
+explorer_kill=Kill explorer.exe
+explorer_restart=Restart explorer.exe
+ACCEPT=ACCEPT
+CANCEL=CANCEL

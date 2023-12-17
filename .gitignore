@@ -1,0 +1,15 @@
+utils/__pycache__/base_command.cpython-311.pyc
+utils/__pycache__/commands.cpython-311.pyc
+utils/__pycache__/exceptions.cpython-311.pyc
+utils/__pycache__/load_lang.cpython-311.pyc
+utils/__pycache__/module_switcher.cpython-311.pyc
+utils/__pycache__/templater.cpython-311.pyc
+__pycache__/Utils.cpython-311.pyc
+bin/old_version.pyw
+bin/TEEMP.py
+commands/__pycache__/change_sound_output_headphones.cpython-311.pyc
+commands/__pycache__/change_sound_output_speakers.cpython-311.pyc
+commands/__pycache__/change_sound_output.cpython-311.pyc
+commands/__pycache__/explorer_utils.cpython-311.pyc
+commands/__pycache__/pc_shutdown.cpython-311.pyc
+commands/__pycache__/template.cpython-311.pyc
