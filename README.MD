@@ -4,7 +4,7 @@ A small utility with modular commands
 A program that is added to the system tray. Loads downloaded commands and adds them to itself for quick use
 ### Usage
 Add this program to startup, download the commands you need, turn them on and enjoy life  
-[`How to create custom commands`](#Customs)
+[`How to create custom commands`](#Custom)
 ### Features
  - Support languages
  - Fully modular system
