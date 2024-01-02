@@ -61,7 +61,7 @@ and they will take this name
 ```py
 class method1(Defs_for_all):
     def __init__(self, config) -> None:
-        self.name = 'NAME'name
+        self.name = 'NAME'
         self.subname = 'SUBNAME'
     def run(self):
         print('method1')
